@@ -1,0 +1,13 @@
+* This directory holds the Address Component
+
+- This is meant to hold a touchable address
+  link that opens the phones map app.
+  Generally used for modals.
+
+Sample Directory Tree:
+
+|-- Address
+    |-- index.js
+    |-- Address.js
+    |-- AddressContainer.js
+    |-- styles.js

@@ -1,0 +1,13 @@
+* This directory holds the Button Component
+
+- The Button is meant to be a global button
+  that will have text as the main identifier
+  of the button.
+
+Sample Directory Tree:
+
+|-- Button
+    |-- index.js
+    |-- Button.js
+    |-- ButtonContainer.js
+    |-- styles.js

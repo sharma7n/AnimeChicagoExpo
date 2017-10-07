@@ -1,0 +1,12 @@
+* This directory holds the TabBar Component.
+
+- It is meant to render a button that will
+  exist on the TabBar component.
+
+Sample Directory Tree:
+
+|-- SmallHorizontalScrollEnclosure
+    |-- index.js
+    |-- TabBarButtonContainer.js
+    |-- TabBarButton.js
+    |-- styles.js

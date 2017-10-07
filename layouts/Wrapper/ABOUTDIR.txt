@@ -1,0 +1,10 @@
+* The Wrapper component wraps all of the Scenes
+  with a ScrollView, StatusBar, and View.
+
+Sample Directory Tree:
+
+|-- Wrapper
+    |-- index.js
+    |-- Wrapper.js
+    |-- WrapperContainer.js
+    |-- ABOUTDIR.txt

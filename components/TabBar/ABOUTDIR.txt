@@ -1,0 +1,11 @@
+* This directory holds the TabBar Component.
+
+- It is meant to render a navigation tab bar.
+
+Sample Directory Tree:
+
+|-- SmallHorizontalScrollEnclosure
+    |-- index.js
+    |-- TabBarContainer.js
+    |-- TabBar.js
+    |-- styles.js

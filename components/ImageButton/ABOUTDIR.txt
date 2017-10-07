@@ -1,0 +1,13 @@
+* This directory holds the ImageButton Component
+
+- The ImageButton is meant to be a global button
+  with an image as the main body that can be pressed.
+  Text can also accompany the button.
+
+Sample Directory Tree:
+
+|-- ImageButton
+    |-- index.js
+    |-- ImageButton.js
+    |-- ImageButtonContainer.js
+    |-- styles.js

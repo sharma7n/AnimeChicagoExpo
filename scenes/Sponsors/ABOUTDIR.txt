@@ -1,0 +1,12 @@
+* This directory holds the Sponsors Scene
+
+- The Sponsors scene shows a list of
+  AnimeChicago sponsors
+
+Sample Directory Tree:
+
+|-- SignIn
+    |-- index.js
+    |-- Sponsors.js
+    |-- SponsorsContainer.js
+    |-- styles.js

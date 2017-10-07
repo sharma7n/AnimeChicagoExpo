@@ -1,0 +1,11 @@
+* This directory holds the SmallCard Component
+
+- The SmallCard is meant to be a global card.
+
+Sample Directory Tree:
+
+|-- SmallCard
+    |-- index.js
+    |-- SmallCard.js
+    |-- SmallCardContainer.js
+    |-- styles.js

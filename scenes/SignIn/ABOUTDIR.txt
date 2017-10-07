@@ -1,0 +1,12 @@
+* This directory holds the SignIn Scene
+
+- The Sign In scene is presented to the user to
+  allow them to sign in using the Meetup API.
+
+Sample Directory Tree:
+
+|-- SignIn
+    |-- index.js
+    |-- SignIn.js
+    |-- SignInContainer.js
+    |-- styles.js

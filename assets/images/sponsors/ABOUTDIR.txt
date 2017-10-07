@@ -1,0 +1,6 @@
+* Keep all sponsor images in this folder.
+
+Sample Directory Tree:
+
+|-- images
+    |-- xuan_tea.png

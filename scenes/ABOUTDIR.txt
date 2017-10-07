@@ -1,0 +1,39 @@
+* This is the genesis of the app. The main material.
+
+- The app is made up of a series of
+  routes/screens/scenes.
+
+- Every sub directory will have a container file. The
+  job of the container file is to fetch and manage our
+  data for the specific route. An example file is
+  DetailsContainer.js
+
+- There will also be a component file named after the
+  directory. Such as Details.js which will be a
+  component that is the view side of things for the
+  route.
+
+Sample Directory Tree:
+
+|-- scenes
+    |-- Details
+        |-- Details.js
+        |-- DetailsContainer.js
+        |-- index.js
+        |-- styles.js
+    |-- Home
+        |-- Home.js
+        |-- HomeContainer.js
+        |-- index.js
+        |-- styles.js
+    |-- Profile
+        |-- Profile.js
+        |-- ProfileContainer.js
+        |-- index.js
+        |-- styles.js
+    |-- SignIn
+        |-- SignIn.js
+        |-- SignInContainer.js
+        |-- index.js
+        |-- styles.js
+    |-- ABOUTME.md

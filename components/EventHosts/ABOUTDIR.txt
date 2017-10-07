@@ -1,0 +1,12 @@
+* This directory holds the EventHosts Component
+
+- The EventHosts is meant to render event host
+  information.
+
+Sample Directory Tree:
+
+|-- EventHosts
+    |-- index.js
+    |-- EventHosts.js
+    |-- EventHostsContainer.js
+    |-- styles.js

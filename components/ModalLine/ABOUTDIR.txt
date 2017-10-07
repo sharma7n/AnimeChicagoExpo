@@ -1,0 +1,13 @@
+* This directory holds the ModalLine
+  Component
+
+- The ModalLine is a grey line for the card
+  modals.
+
+Sample Directory Tree:
+
+|-- ModalLine
+    |-- index.js
+    |-- ModalLine.js
+    |-- ModalLineContainer.js
+    |-- styles.js

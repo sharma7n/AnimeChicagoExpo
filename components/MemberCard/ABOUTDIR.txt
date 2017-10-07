@@ -1,0 +1,13 @@
+* This directory holds the MemberCard
+  Component
+
+- This takes in member data and displays
+  it properly.
+
+Sample Directory Tree:
+
+|-- MemberCard
+    |-- index.js
+    |-- MemberCard.js
+    |-- MemberCardContainer.js
+    |-- styles.js

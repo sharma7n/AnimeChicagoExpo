@@ -1,0 +1,12 @@
+* This directory holds the Home Scene
+
+- The Home scene congregates information
+  at a base level for the user to interact with.
+
+Sample Directory Tree:
+
+|-- Home
+    |-- index.js
+    |-- Home.js
+    |-- HomeContainer.js
+    |-- styles.js

@@ -1,0 +1,12 @@
+* This directory holds the AdminEvent Scene
+
+- The AdminEvent scene will do admin related
+  function. This scene will only show to admins.
+
+Sample Directory Tree:
+
+|-- AdminEvent
+    |-- index.js
+    |-- AdminEvent.js
+    |-- AdminEventContainer.js
+    |-- styles.js
