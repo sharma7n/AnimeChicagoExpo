@@ -1,0 +1,11 @@
+* This directory provides the meetup API logic.
+
+- The real API and a mock API are provided.
+
+Sample Directory Tree:
+
+|-- api
+    |-- index.js
+    |-- meetupApi.js
+    |-- mockMeetupApi.js
+ 

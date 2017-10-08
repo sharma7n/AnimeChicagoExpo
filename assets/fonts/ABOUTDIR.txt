@@ -1,0 +1,6 @@
+* This directory contains all font files and licenses.
+
+Sample Directory Tree:
+
+|-- fonts
+    |-- Sans.ttf

@@ -1,0 +1,10 @@
+* This directory contains all static assets.
+
+Sample Directory Tree:
+
+|-- assets
+    |-- fonts
+        |-- Sans.ttf
+        |-- Papyrus.ttf
+    |-- images
+        |-- logo.png
